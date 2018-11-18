@@ -4,16 +4,17 @@
   Gruppe:     2
   Datum:      11.12.2018
   
-  Ablauf: * In der ersten Einheit befassten wir uns damit wie man sich einen Account auf Github anlegt
-          * Versionsverwaltung
-          * Wie man sich ein neuse "Repository" erstellt
-          * Wichtigsten Befechle in Github
+  **Ablauf:**
+  * In der ersten Einheit befassten wir uns damit wie man sich einen Account auf Github anlegt
+  * Versionsverwaltung
+  * Wie man sich ein neuse "Repository" erstellt
+  * Wichtigsten Befechle in Github
           
   **Verschieden Versionsverwaltungssysteme:**
-      * CVS
-      * SVN
-      * Git
-      * ...
+  * CVS
+  * SVN
+  * Git
+  * ...
   
           
           
