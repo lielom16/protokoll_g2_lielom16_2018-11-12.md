@@ -42,6 +42,8 @@ Einheit | Datum | Kurzbeschreibung
 3|26.11.2018|X
   
   
+**Genauere Infos über GitHub gibt es auf** [GitHub] **zu lesen** (https://guides.github.com/features/mastering-markdown/)
+  
   
           
           
