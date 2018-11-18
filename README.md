@@ -33,7 +33,13 @@
   Hier ein Bild zur Erklärung:[Bild](https://www.google.at/search?rlz=1C1CHBD_deAT773AT776&biw=1692&bih=811&tbm=isch&sa=1&ei=qazxW5e9BsH5sAf04ZygDg&q=git+push&oq=git+push&gs_l=img.3..0l6j0i30l4.32441.33108..34248...0.0..1.72.72.1......2....1j2..gws-wiz-img.....0.4nHqjfbPX6w#imgrc=8uxtOvzFYIQClM:)
   
   
+ **Zur demonstration noch eine Tabelle:**
  
+Einheit | Datum | Kurzbeschreibung
+--------|-------|-----------------
+1|12.11.2018|Versionsverwaltung
+2|19.11.2018|rasperry Instalation
+3|26.11.2018|
   
   
   
