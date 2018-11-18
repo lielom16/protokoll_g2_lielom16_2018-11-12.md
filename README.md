@@ -12,7 +12,7 @@
   
   
   **Versionsverwaltung:**
-  Unter Versionsverwaltung versteht man die Speicherung relevanter Ideen und Planungen zum Beispiel eines Projekts auf einem Repository       (Verzeichniss) zu speichern. Dieses Repository arbeitet also ähnlich wie eine Datenbank, speichert die Informationen jedoch in einen     Netzwerk auf ds mehrere Personen zugreifen können.
+  Unter Versionsverwaltung versteht man die Speicherung relevanter Ideen und Planungen zum Beispiel eines Projekts auf einem Repository       (Verzeichniss). Dieses Repository arbeitet also ähnlich wie eine Datenbank, speichert die Informationen jedoch in einen     Netzwerk auf das mehrere Personen zugreifen können.
   
    
           
@@ -42,7 +42,7 @@ Einheit | Datum | Kurzbeschreibung
 3|26.11.2018|X
   
   
-[**Genauere Infos über GitHub Markdown gibt es auf GitHub zu lesen:**](https://guides.github.com/features/mastering-markdown/)
+[**Genauere Infos über GitHub gibt es auf GitHub Markdown zu lesen:**](https://guides.github.com/features/mastering-markdown/)
   
   
           
