@@ -17,7 +17,7 @@
      
  ![Bild](https://www.till-biskup.de/_media/de/lehre/programmierkonzepte/ws2016/04/vcs-distributed.png)
   
-   
+     
           
   **Verschieden Versionsverwaltungssysteme:**
   * `CVS`
@@ -25,7 +25,7 @@
   * `Git`
   * ...
   
-  
+     
   **Wichtige Befehle in Git**
   * `git clone`
   * `git add`
@@ -42,6 +42,75 @@
   
   
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **Zur demonstration noch eine Tabelle:**
