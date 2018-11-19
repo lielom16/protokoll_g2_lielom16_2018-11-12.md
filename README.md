@@ -13,6 +13,8 @@
   
   **Versionsverwaltung:**
   Unter Versionsverwaltung versteht man die Speicherung relevanter Ideen und Planungen zum Beispiel eines Projekts auf einem Repository       (Verzeichniss). Dieses Repository arbeitet also ähnlich wie eine Datenbank, speichert die Informationen jedoch in einen     Netzwerk auf das mehrere Personen zugreifen können.
+  
+     
  ![Bild](https://www.till-biskup.de/_media/de/lehre/programmierkonzepte/ws2016/04/vcs-distributed.png)
   
    
@@ -25,11 +27,11 @@
   
   
   **Wichtige Befehle in Git**
-  * git clone
-  * git add
-  * git push
-  * git fetch
-  * git pull
+  * `git clone`
+  * `git add`
+  * `git push`
+  * `git fetch`
+  * `git pull`
   
   
   
