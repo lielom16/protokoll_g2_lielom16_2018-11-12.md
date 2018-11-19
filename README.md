@@ -30,6 +30,8 @@
   * git fetch
   * git pull
   
+  
+  
   Hier ein Bild zur Erklärung:
   
   
@@ -37,7 +39,9 @@
   
   
   
- **Zur demonstration noch eine Tabelle:**
+
+
+**Zur demonstration noch eine Tabelle:**
  
 Einheit | Datum | Kurzbeschreibung
 --------|-------|-----------------
