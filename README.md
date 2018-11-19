@@ -31,7 +31,11 @@
   * git pull
   
   Hier ein Bild zur Erklärung:
-  * ![Bild](https://i.stack.imgur.com/MgaV9.png)
+  
+  
+  ![Bild](https://i.stack.imgur.com/MgaV9.png)
+  
+  
   
  **Zur demonstration noch eine Tabelle:**
  
