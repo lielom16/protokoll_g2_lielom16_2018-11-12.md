@@ -32,7 +32,7 @@
   
   
   
-  Hier ein Bild zur Erklärung:
+  **Hier ein Bild zur Erklärung:**
   
   
   ![Bild](https://i.stack.imgur.com/MgaV9.png)
