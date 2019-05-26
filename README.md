@@ -14,4 +14,4 @@
    Unter einem Netzwerk versteht man eine Zusammenschaltung zweier oder mehrer Geräte. Ein Netzwerk kann jedoch auch aus mehreren 
    einzelnen Netzwerken(den Subnetzen) bestehen. In einem solchen Netzwerk hat jedes Gerät(Host) seinen eihgenen Platz, um jedes Gerät 
    zu initialisieren werden dafür Adressen verwendet.
-   [Bild](http://www.vpn-deutschland.de/images/VPN-Sicherheit.jpg)
+   ![Bild](http://www.vpn-deutschland.de/images/VPN-Sicherheit.jpg)
