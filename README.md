@@ -46,4 +46,4 @@ Ein Default Gateway ist in der Regel ein Router, welcher IP-Netzwerke verbindet.
 Eine Routing-Tabelle enthält die notwendigen Informationen, um Pakete auf dem bestmöglichen Weg zu seinem Ziel zu transportieren (Forwarding). Jedes Paket enthält dabei Informationen über Ursprung und Ziel. Sobald ein Paket empfangen wird, untersucht es das Netzwerk-Gerät und vergleicht es mit der Routing-Tabelle. Danach wird das bestmögliche Ziel ausgewählt. Die Tabelle gibt dem Gerät Informationen, um das Paket zum nächsten Hop auf seinem Weg durch das Netzwerk zu senden. (Quelle: [computerweekly.com](https://www.computerweekly.com/de/definition/Routing-Tabelle-Routing-Table))
 
 ## Übung
-![Bild]()
+![Bild](C:\Users\loren\Desktop\schule)
