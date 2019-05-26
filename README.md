@@ -18,9 +18,13 @@
    
    **Adressen** 
    In einem Netzwerk durläuft ein Datenpaket bis zu seiner Ankunft am destination Host mehrere Netzwerklayer. Jeder dieser Layer hat    eigene Adressen um eine klare Wegfindung der Datenpakete durch das Netzwerk zu garantieren.
+   
    **Ip-Adressen**
+   
 **Ipv4** -> 192.68.0.0 (vier dreistellige dezimalzahlen durch einen Punkt getrennt)
+
 **Ipv6** -> aaa:2f92:23b::0 (acht vierziffrige HEX-Zahlen & nullen dürfen durch :: ersetzt werden)
+
 
 ## Private IP-Adressen
 
